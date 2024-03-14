@@ -4,4 +4,4 @@ Sentiment Analysis of the Amazon Product reviews. Obtained a dataset from Kaggle
 
 Setting up a data science project.  
 
-# Define the `path` to the project directory. Which  I have added in the `.env`. 
+Define the `path` to the project directory. Which  I have added in the `.env`. 
